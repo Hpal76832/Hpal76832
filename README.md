@@ -5,12 +5,9 @@
 
 
 # Hi there 👋
-I am Arpit Dwivedi. My interest lies in Machine Learning,Deep Learning and Computer vision.I am always curious to learn something new.
+I am Himanshu Pal. My interest lies in Machine Learning,Deep Learning and Computer vision.I am always curious to learn something new.
 
-    telescope I’m currently w
-
-Here are some ideas to get you started:
-
+   
 - 🔭 I’m currently working on my skills to develop them as much as I can.
 - 👯 I’m looking for the opportunity to enhance my skills as well as learn new things.
 - 📫 How to reach me: hpal76832@gmail.com
